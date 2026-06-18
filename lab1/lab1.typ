@@ -30,7 +30,7 @@
   numbering: "1",
   number-align: bottom + center,
   header: context [
-    #text(size: 12pt, fill: gray.darken(25%))[llm-from-scratch]
+    #text(size: 12pt, fill: gray.darken(25%))[deep-learning-from-scratch]
     #h(1fr)
     #text(size: 12pt, fill: gray.darken(25%))[#datetime.today().display("[month repr:short] [day], [year]")]
   ],
