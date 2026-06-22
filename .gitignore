@@ -1,3 +1,6 @@
 *.pth
 .vscode
 *.pdf
+
+# Ignore pycache
+__pycache__/
